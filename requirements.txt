@@ -1,0 +1,6 @@
+pydataset
+scikit-learn
+pymc
+pandas
+numpy
+scipy
